@@ -1,8 +1,5 @@
-[![MasterHead](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbW55STRmdVd5WDBpYnRKX2FuV0xMRHpMa1RHQXxBQ3Jtc0tsX3Q2OVhCZXVIUkkzX2VqZ0FMRFRnaWh5cUNmTGgzcFZZbWNadTI2RjJraWUtcFA1Rnp0UTlic3NBZ3hTT0gzQTN2TlFPOEVIVkxvRlJMMWhWdzlfdkhVMUJhbFVReU9IVEE2d0FveUNjQW1Eb1N1RQ&q=https%3A%2F%2F1.bp.blogspot.com%2F-7A4WynwLsMw%2FXbBpCXG8fHI%2FAAAAAAAAMt4%2FuOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ%2Fs1600%2F2000_600px.gif&v=G-EGDH50hGE)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Vîrlan Dănuț</h1>
 <h3 align="center">A passionate aspiring full stack web developer from Romania</h3>
-
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virlandanut&label=Profile%20views&color=0e75b6&style=flat" alt="virlandanut" /> </p>
 
