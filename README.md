@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **React.js, TypeScript, Node and SQL**
 
-- 👨‍💻 I am very active on LinkedIn [https://www.linkedin.com/in/virlan-danut/](https://www.linkedin.com/in/virlan-danut/)
+- 👨‍💻 I am very active on LinkedIn, **[come and say hi](https://www.linkedin.com/in/virlan-danut/)**!
 
 - 💬 Ask me about **every single aspect of web development**
 
 - 📫 How to reach me **virlan.danut@outlook.com**
 
-- 📄 Know about my experiences [https://ivory-amandy-93.tiiny.site](https://ivory-amandy-93.tiiny.site)
+- 📄 Check out my **[resume](https://ivory-amandy-93.tiiny.site)**!
 
 - ⚡ Fun fact **Yes, I am betting my career on a JavaScript Framework developed by Facebook.**
 
