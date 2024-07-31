@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vîrlan Dănuț</h1>
 <h3 align="center">A passionate aspiring full stack web developer from Romania</h3>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virlandanut&label=Profile%20views&color=0e75b6&style=flat" alt="virlandanut" /> </p>
 
 - 🔭 I’m currently working on [No Waste And Recycle](https://github.com/virlandanut/NoWasteAndRecycle)
