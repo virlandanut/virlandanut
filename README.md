@@ -1,9 +1,9 @@
 ![my banner](https://github.com/virlandanut/virlandanut/blob/main/banner.png)
 
-<h1 align="center">Hi 👋, I'm Vîrlan Dănuț</h1>
+<h1 align="center">Hi 👋, I'm Dănuț</h1>
 <h3 align="center">A passionate aspiring full stack web developer from Romania</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=virlandanut&label=Profile%20views&color=0e75b6&style=flat" alt="virlandanut" /> </p>
+<p>Passionate full stack web developer working hard to achieve my professional goals every single day. I focus on creating amazing user experience by implementing professional looking user interface, implementing and optimising business logic on the server, designing and creating databases.</p>
 
 - 🔭 I’m currently working on [No Waste And Recycle](https://github.com/virlandanut/NoWasteAndRecycle)
 
@@ -19,10 +19,9 @@
 
 - ⚡ Fun fact **Yes, I am betting my career on a JavaScript Framework developed by Facebook.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/virlan-danut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="virlan-danut" height="30" width="40" /></a>
-</p>
+<h3 align="left">What sets me apart:</h3>
+
+I am a passionate individual who works very hard every single day to improve and learn. I enjoy spending my time **refactoring** and **optimising**  my code and I learn from every single project I make. I also love to hear feedback from people with more experience and I try my best to help other achieve their potential.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
