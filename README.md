@@ -69,10 +69,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
 </p>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=virlandanut&show_icons=true&locale=en" alt="virlandanut" />
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=virlandanut&show_icons=true&locale=en&layout=compact" alt="virlandanut" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=virlandanut&show_icons=true&locale=en" alt="virlandanut" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=virlandanut&" alt="virlandanut" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=virlandanut&" alt="virlandanut" />
+</p>
