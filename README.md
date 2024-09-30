@@ -5,9 +5,9 @@
 
 <p>Passionate full stack web developer working hard to achieve my professional goals every single day. I focus on creating amazing user experience by implementing professional looking user interface, implementing and optimising business logic on the server, designing and creating databases.</p>
 
-- 🔭 I’m currently working on [No Waste And Recycle](https://github.com/virlandanut/NoWasteAndRecycle)
+- 🔭 I’m currently working on [No Waste And Recycle and Skinet](https://github.com/virlandanut/NoWasteAndRecycle)
 
-- 🌱 I’m currently learning **React.js, TypeScript, Node and SQL**
+- 🌱 I’m currently learning **Angular, TypeScript, .NET and Sql Server**
 
 - 👨‍💻 I am very active on LinkedIn, **[come and say hi](https://www.linkedin.com/in/virlan-danut/)**!
 
@@ -15,9 +15,9 @@
 
 - 📫 How to reach me **virlan.danut@outlook.com**
 
-- 📄 Check out my **[resume](https://ivory-amandy-93.tiiny.site)**!
+- 📄 Check out my **[resume](https://drive.google.com/file/d/1tiIV5k-26kyatS9hCwGXJAv6QyOHVcY2/view?usp=drive_link)**!
 
-- ⚡ Fun fact **Yes, I am betting my career on a JavaScript Framework developed by Facebook.**
+- ⚡ Fun fact **Yes, I am betting my career on a JavaScript Framework developed by Google.**
 
 <h3 align="left">What sets me apart:</h3>
 
