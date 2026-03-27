@@ -1,28 +1,3 @@
-![my banner](https://github.com/virlandanut/virlandanut/blob/main/banner.png)
-
-<h1 align="center">Hi 👋, I'm Dănuț</h1>
-<h3 align="center">A passionate aspiring full stack web developer from Romania</h3>
-
-<p>Passionate full stack web developer working hard to achieve my professional goals every single day. I focus on creating amazing user experience by implementing professional looking user interface, implementing and optimising business logic on the server, designing and creating databases.</p>
-
-- 🔭 I’m currently working on [No Waste And Recycle and Skinet](https://github.com/virlandanut/NoWasteAndRecycle)
-
-- 🌱 I’m currently learning **Angular, TypeScript, .NET and Sql Server**
-
-- 👨‍💻 I am very active on LinkedIn, **[come and say hi](https://www.linkedin.com/in/virlan-danut/)**!
-
-- 💬 Ask me about **every single aspect of web development**
-
-- 📫 How to reach me **virlan.danut@outlook.com**
-
-- 📄 Check out my **[resume](https://drive.google.com/file/d/1tiIV5k-26kyatS9hCwGXJAv6QyOHVcY2/view?usp=drive_link)**!
-
-- ⚡ Fun fact **Yes, I am betting my career on a JavaScript Framework developed by Google.**
-
-<h3 align="left">What sets me apart:</h3>
-
-I am a passionate individual who works very hard every single day to improve and learn. I enjoy spending my time **refactoring** and **optimising**  my code and I learn from every single project I make. I also love to hear feedback from people with more experience and I try my best to help other achieve their potential.
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
